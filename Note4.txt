@@ -1,0 +1,17 @@
+Sentinel
+ 
+SIEM - Security Information and Event Management
+SOAR - Security Orchestration, Automation, and Response
+XDR - Extended Detection and Response
+SIM - Log collection, storage and analysis
+SEM - Real-time monitoring and correlation
+ 
+SOAR - Security Orchestration and Automation and Response.
+ 
+"Log Analystics workspace" - Azure resource, Sentinel depends on this service
+ 
+Security analysts: Microsoft Sentinel Responder, Microsoft Sentinel Playbook Operator
+Security engineers: Microsoft Sentinel Contributor, Logic Apps Contributor
+Service principal: Microsoft Sentinel Contributor
+
+ashok.puligottu.v@outlook.com / Krishn@1728
